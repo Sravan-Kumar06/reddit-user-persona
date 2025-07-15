@@ -1,0 +1,27 @@
+ Name: Steve (also known as "spez")
+Age Range: 40-49 (based on time spent at Reddit)
+Gender: Male
+Occupation / Hobbies: CEO of Reddit, avid reader, bike enthusiast, reader of Discworld books, mountain biker
+Interests: Technology, moderation, Reddit, bike riding, reading, books, hot sauce, cottage cheese, Triscuits, Answers, customization
+Subreddits they frequent: r/Snoo, r/reddit, r/RedditIPO, r/ModSupport, r/Modnews, r/AskReddit, r/TheoryOfReddit, r/IAmA, r/Moderation, r/web_redesign, r/redditdev, r/ideasfortheadmins, r/reddit, r/ModSupport, r/discworld, r/Fantasy, r/books, r/GamesOnReddit, r/Field, r/Games, r/AskUK, r/Moderation, r/GameChanger
+Writing Style or Tone: Professional, straightforward, sometimes humorous
+Political / Cultural Opinions (if evident): Seems to be liberal with a focus on maintaining an open and inclusive platform for free speech and community discussion. Supports the use of Reddit for sharing information and ideas, but acknowledges the challenge of addressing bias and moderating political discussions, particularly during election season.
+Notable personality traits: Passionate about Reddit, dedicated to improving the platform, transparent in communication, approachable, humble, willing to listen to feedback and make changes based on user input, supportive of the Reddit community and its moderators.
+
+Here are some examples of their posts and comments to back up these traits:
+
+* "I’d tap that link but I don’t want phish recommendations in my feed" (RedditIPO) - shows a sense of humor
+* "Red vines. I grew up on the east coast with Twizzlers and had a hard time transitioning, but Red Vines are clearly superior" (ModSupport) - shows a relatable and down-to-earth personality
+* "I don’t want your ID to ever pass through our infrastructure" (RedditIPO) - shows a commitment to user privacy and security
+* "The comments on my last couple of posts in r/announcements felt less and less like a Reddit comment thread. I believe this is because there is no actual community there and therefore no real conversation" (ModNews) - shows a deep understanding of Reddit's community-driven nature and a desire to improve the platform for better conversations
+* "Longer term, we are exploring a larger refresh to address things like the insane clunkiness between feed->video->comments" (u\_spez) - shows a willingness to make changes based on user feedback and a desire to continually improve the platform
+* "I’d want all admins" (IdeasForTheAdmins) - shows a desire for transparency and accountability
+* "Today's the day Reddit becomes a better place for moderators" (ModSupport) - shows a commitment to supporting and empowering moderators
+* "We may just disagree on this point. It’s a fine line between a monopoly and a platform that supports and nurtures its communities" (ModNews) - shows a thoughtful and nuanced approach to balancing Reddit's role as a platform and its role as a community
+* "We are one of the last major sites that doesn’t require you to sign in to access most features" (Reddit's Next Chapter) - shows a commitment to keeping Reddit open and accessible to all users, regardless of geography or language
+* "We are here to help build a platform that supports communities and the knowledge they share" (Reddit's Next Chapter) - shows a focus on community-driven content and knowledge sharing
+* "We will continue to push back against excessive or unreasonable demands from public or private authorities" (Reddit's Next Chapter) - shows a commitment to user privacy and freedom of speech
+* "We’re not forcing any communities to participate. Some of the communities we bounced this idea off are happy to give it a try, others said it’s not a fit, which is totally fine" (ModNews) - shows a willingness to listen to feedback and make changes based on user input
+* "The comments on my last couple of posts in r/announcements felt less and less like a Reddit comment thread. I believe this is because there is no actual community there and therefore no real conversation" (ModNews) - shows a deep understanding of Reddit's community-driven nature and a desire to improve the platform for better conversations
+* "What's an office?", "What's the future of multilingual Reddit?" (Fridays with ModSupport) - shows a sense of humor and a willingness to engage with users in a casual, friendly manner
+* "I'd really like to talk about today: cottage cheese" (Fridays with ModSupport) - shows a relatable and down-to-earth personality and a love of food
